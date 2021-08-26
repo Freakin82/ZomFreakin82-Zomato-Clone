@@ -1,0 +1,33 @@
+com/freakin/foodorderingapp/Models/MainModel.java
+ com.freakin.foodorderingapp.Models.MainModel
+com/freakin/foodorderingapp/databinding/OrderSampleBinding.java
+ com.freakin.foodorderingapp.databinding.OrderSampleBinding
+com/freakin/foodorderingapp/MainActivity.java
+ com.freakin.foodorderingapp.MainActivity
+com/freakin/foodorderingapp/databinding/ActivityDetailBinding.java
+ com.freakin.foodorderingapp.databinding.ActivityDetailBinding
+com/freakin/foodorderingapp/OrderActivity.java
+ com.freakin.foodorderingapp.OrderActivity
+com/freakin/foodorderingapp/databinding/SampleMainfoodBinding.java
+ com.freakin.foodorderingapp.databinding.SampleMainfoodBinding
+com/freakin/foodorderingapp/Models/OrdersModel.java
+ com.freakin.foodorderingapp.Models.OrdersModel
+com/freakin/foodorderingapp/databinding/ActivityOrderBinding.java
+ com.freakin.foodorderingapp.databinding.ActivityOrderBinding
+com/freakin/foodorderingapp/BuildConfig.java
+ com.freakin.foodorderingapp.BuildConfig
+com/freakin/foodorderingapp/databinding/ActivityMainBinding.java
+ com.freakin.foodorderingapp.databinding.ActivityMainBinding
+com/freakin/foodorderingapp/DBHelper.java
+ com.freakin.foodorderingapp.DBHelper
+com/freakin/foodorderingapp/DetailActivity.java
+ com.freakin.foodorderingapp.DetailActivity
+ com.freakin.foodorderingapp.DetailActivity$1
+com/freakin/foodorderingapp/Adapters/OrdersAdapter.java
+ com.freakin.foodorderingapp.Adapters.OrdersAdapter
+ com.freakin.foodorderingapp.Adapters.OrdersAdapter$1
+ com.freakin.foodorderingapp.Adapters.OrdersAdapter$viewHolder
+com/freakin/foodorderingapp/Adapters/MainAdapter.java
+ com.freakin.foodorderingapp.Adapters.MainAdapter
+ com.freakin.foodorderingapp.Adapters.MainAdapter$1
+ com.freakin.foodorderingapp.Adapters.MainAdapter$viewholder
